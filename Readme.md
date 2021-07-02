@@ -15,3 +15,10 @@ Reading Material:
 - [SFTs](https://www.globenewswire.com/fr/news-release/2021/04/29/2220057/0/en/Mocktail-Becomes-The-First-ERC-1155-Standard-Semi-Fungible-Token-SFT-Launched-on-Binance-Smart-Chain.html)
 - [ERC-1155](https://boxmining.com/erc-1155/)
 - [Token Economy Book](https://github.com/sherminvo/TokenEconomyBook)
+
+Class 3 Videos: Token Economy
+
+- [English on YouTube](https://www.youtube.com/watch?v=w7uvlzXTGBU&t=17s&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
+- [English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/4452119318173275)
+- [Urdu on YouTube](https://www.youtube.com/watch?v=KxCkksNtiT0&ab_channel=PanacloudUrduCloudAICourse)
+- [Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2269720149829429)

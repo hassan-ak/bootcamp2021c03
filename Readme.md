@@ -1,4 +1,4 @@
-# bootcamp20210c3 - The Token Economy
+# bootcamp2021c03 - The Token Economy
 
 ## Token Economy
 

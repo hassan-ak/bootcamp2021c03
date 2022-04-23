@@ -1,6 +1,11 @@
-# bootcamp2021c03 - The Token Economy
+# bootcamp2021c03 - The API and Token Economy - The Token Economy - Token Economy
 
 ## Token Economy
+- Web 2.0 and 3.0
+- Tokens
+- Tokenomics
+- NFTs
+- SFTs
 
 [Token Economy Presentation for Class 3](https://docs.google.com/presentation/d/1oHADvCVKBDfGBYRRTuyHHPspQjKLS5xHuy-lTLFMi4I/edit#slide=id.gdd36af5297_2_83)
 
